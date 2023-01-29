@@ -20,10 +20,13 @@
     "test:e2e": "jest --config ./test/jest-e2e.json"
   },
   "dependencies": {
+    "@expo/vector-icons": "^13.0.0",
     "@nestjs/common": "^9.0.0",
     "@nestjs/core": "^9.0.0",
     "@nestjs/passport": "^9.0.0",
     "@nestjs/platform-express": "^9.0.0",
+    "@react-native-community/datetimepicker": "6.5.2",
+    "expo": "^47.0.13",
     "passport": "^0.6.0",
     "passport-local": "^1.0.0",
     "reflect-metadata": "^0.1.13",
